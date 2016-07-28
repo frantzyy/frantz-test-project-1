@@ -1,0 +1,19 @@
+{
+  "name": "frantz-test-project-1",
+  "version": "1.0.0",
+  "description": "test project will depend on test-framework. Trying to see how to wrap a pre-defined set a libraries (and versions) to be across projects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frantzyy/frantz-test-project-1.git"
+  },
+  "author": "Chris Frantz <christopher.j.frantz@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/frantzyy/frantz-test-project-1/issues"
+  },
+  "homepage": "https://github.com/frantzyy/frantz-test-project-1#readme"
+}
